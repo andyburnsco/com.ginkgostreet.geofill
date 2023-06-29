@@ -16,7 +16,6 @@
   <license>AGPL-3.0</license>
   <maintainer>
     <author>Ginkgo Street Labs</author>
-    <email>inquire@ginkgostreet.com</email>
   </maintainer>
   <urls>
     <url desc="Main Extension Page">https://github.com/ginkgostreet/com.ginkgostreet.geofill</url>
@@ -24,11 +23,11 @@
     <url desc="Support">https://github.com/ginkgostreet/com.ginkgostreet.geofill/issues</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
-  <releaseDate>2016-12-19</releaseDate>
-  <version>1.0.0-alpha1</version>
-  <develStage>alpha</develStage>
+  <releaseDate>2023-06-29</releaseDate>
+  <version>1.1.0</version>
+  <develStage>stable</develStage>
   <compatibility>
-    <ver>4.7</ver>
+    <ver>5.51.0</ver>
   </compatibility>
   <comments>
     This extension requires CiviCRM version 4.7.7 or greater, due to its reliance upon
